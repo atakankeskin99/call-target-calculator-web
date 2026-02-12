@@ -83,11 +83,14 @@ Required pace = Remaining calls / Remaining net hours
 
 ## 🖼 Screenshot
 
-```html
+<h2>🖼️ Application Screenshot</h2>
+
 <p align="center">
-  <img src="images/screenshot.png" width="900" />
+  <img src="images/screenshot.png" alt="Call Target Calculator Web Version Screenshot" width="900" />
+  <br/>
+  <em>Call Target Calculator — Web Version (HTML / JavaScript)</em>
 </p>
-```
+
 
 ---
 

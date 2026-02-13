@@ -81,8 +81,6 @@ Required pace = Remaining calls / Remaining net hours
 
 ---
 
-## 🖼 Screenshot
-
 <h2>🖼️ Application Screenshot</h2>
 
 <p align="center">
